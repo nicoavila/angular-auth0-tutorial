@@ -3,21 +3,23 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-## Install
+## Preview
+![Auth0](https://nicoavila.s3.us-west-2.amazonaws.com/repos-images/auth0-angular-animation.gif)
+
+## Requisitos
+* Angular 8
+* Cuenta en [Auth0](https://auth0.com)
+
+## Instalación
 
 ```sh
 npm install
 ```
 
-## Usage
+## Uso
 
 ```sh
 npm run start
 ```
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

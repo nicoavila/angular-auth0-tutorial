@@ -1,0 +1,13 @@
+#home_container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #A2A2F2;
+  h1 {
+    font-size: 20rem;
+    color: #FFFFFF;
+  }
+}

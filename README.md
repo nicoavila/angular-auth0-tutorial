@@ -6,20 +6,20 @@
 ## Preview
 ![Auth0](https://nicoavila.s3.us-west-2.amazonaws.com/repos-images/auth0-angular-animation.gif)
 
-## Slides
+## :computer: Slides
 > Las slides de la presentación pueden descargarlas [aquí](https://nicoavila.s3.us-west-2.amazonaws.com/slides/AngularChile-20190830-Autenticacion-en-Angular-con-Auth0.pdf)
 
-## Requisitos
+## :white_check_mark: Requisitos
 * Angular 8
 * Cuenta en [Auth0](https://auth0.com)
 
-## Instalación
+## :cd: Instalación
 
 ```sh
 npm install
 ```
 
-## Uso
+## :raised_hands: Uso
 
 ```sh
 npm run start
